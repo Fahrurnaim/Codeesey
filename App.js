@@ -8,7 +8,7 @@ import Tiga from './screens/Tiga';
 import Empat from './screens/Empat';
 
 const Stack = createNativeStackNavigator();
-
+const Oke = 1;
 export default function App() {
   return (
     <NavigationContainer>
